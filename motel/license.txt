@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motel
+* source:	https://sketchfab.com/3d-models/motel-ca86a44635054d9aa43f91b49694c3cc
+* author:	YD92 (https://sketchfab.com/YD92)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motel" (https://sketchfab.com/3d-models/motel-ca86a44635054d9aa43f91b49694c3cc) by YD92 (https://sketchfab.com/YD92) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
